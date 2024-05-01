@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"systick.h": "c",
+			"uart.h": "c",
+			"gd32f4xx.h": "c",
+			"bsp_lcd.h": "c",
+			"array": "c",
+			"string": "c",
+			"string_view": "c",
+			"stdio.h": "c",
+			"bsp_lcd.H": "cpp",
+			"img.h": "c",
+			"audio_bsp.h": "c",
+			"gd32f4xx_libopt.h": "c",
+			"out.h": "c",
+			"main.h": "c"
+		}
+	}
+}
